@@ -1,5 +1,5 @@
 # Bible Idle
-an idle game to learn programming
+an idle game to learn javascript and bootstrap
 ## About
 * This game is about numbers going up in a cristian way
 * Get all of your favorite apostles and biblical characters
